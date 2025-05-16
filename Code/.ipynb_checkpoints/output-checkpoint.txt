@@ -1,0 +1,3 @@
+Name: piyush
+Age: 32
+This is the output written to a file.
