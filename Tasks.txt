@@ -1,0 +1,37 @@
+
+
+
+Explore following tutorial , do all the examples in your local environment and present it in class . 
+
+Man Bahadur Gurdhami : Python Data types tutorial from https://www.w3schools.com/python/python_datatypes.asp 
+
+Nima Tshering : Python Number and Python Casting from w3schools https://www.w3schools.com/python/python_numbers.asp and https://www.w3schools.com/python/python_casting.asp
+
+Sabita Singh : Python Strings ( Slicing string , modify string , concatenate string, format string ) form w3schools https://www.w3schools.com/python/python_strings.asp 
+
+Ghanashyam Gautam: Escape Characters https://www.w3schools.com/python/python_strings_escape.asp 
+
+Chetan Giri : String Methods https://www.w3schools.com/python/python_strings_methods.asp
+
+Kishan Bahadur Gurung: Python Operators https://www.w3schools.com/python/python_operators.asp
+
+Shikhar Basnet : Python Lists https://www.w3schools.com/python/python_lists.asp ( do all )
+
+Preeti Tamang : Python Tuples https://www.w3schools.com/python/python_tuples.asp (do all)
+
+Nisha Sigdel : Python Sets https://www.w3schools.com/python/python_sets.asp ( do all) 
+
+Gopi Chandra Khadka: Python Dictionary https://www.w3schools.com/python/python_dictionaries.asp ( do all)
+
+Pradeep Shah : https://www.w3schools.com/python/python_booleans.asp and https://www.w3schools.com/python/python_arrays.asp
+
+
+
+
+
+• Write program to illustrate variables, constants, data
+types and type conversion.
+• Write program to demonstrate different types of
+operators available in python and perform calculations.
+• Write program to make use of I/O functions.
+
