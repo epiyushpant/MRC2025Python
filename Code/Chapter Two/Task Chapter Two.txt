@@ -1,0 +1,12 @@
+1. Write a program to check if a number is positive, negative or zero using if.
+2. Use match to create a simple menu-based calculator.
+3. Use break to stop input when the user enters a specific keyword.
+4. Use continue to skip printing even numbers in a loop.
+5. Find the factorial of a number using both for and while loops.
+6. Print the first 10 Fibonacci numbers.
+7. Sum of all numbers from 1 to N entered by the user.
+8. Keep asking the user to input a valid age (between 1 to 100) using a loop.
+9. Print a right-angled triangle using *.
+10. Print a number pyramid pattern.
+11. Create a menu-driven program using infinite loop and break to allow user to choose options like add, subtract, exit etc.
+
