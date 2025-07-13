@@ -16,7 +16,7 @@ def fibonacci(n):
     return fib_sequence
 
 # Example usage
-if __name__ == "__main__":
+def main():
     try:
         count = int(input("Enter the number of Fibonacci numbers to generate: "))
         if count < 0:
