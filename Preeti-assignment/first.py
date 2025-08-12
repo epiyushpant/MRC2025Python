@@ -1,6 +1,7 @@
 # Python Program to Illustrate Variables, Constants, Data Types, and Type Conversion
 
 # 1. VARIABLES
+# Variables store data values. They can change during program execution.
 name = "Alice"        # String variable
 age = 25              # Integer variable
 height = 5.6          # Float variable
