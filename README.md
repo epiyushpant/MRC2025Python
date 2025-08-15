@@ -68,7 +68,7 @@ Each notebook is carefully structured with:
 1. **Clone the repository:**
 
    git clone https://github.com/epiyushpant/MRC2025Python.git
-   cd python-assignments
+   && cd python-assignments
    
 
 2. **Install required packages:**
@@ -131,14 +131,7 @@ Each notebook is carefully structured with:
   <h3>🌟 Preeti Tamang</h3>
   <p>
     <strong>Email:</strong> preeti.tamang.pkr@gmail.com<br>
-    <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preetiimport os
-
-# Get current working directory
-current_directory = os.getcwd()
-
-# Print the result
-print("Current Directory:", current_directory)
-tamang.github.io</a>
+    <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preetitamang.github.io</a>
   </p>
   
   <p>
