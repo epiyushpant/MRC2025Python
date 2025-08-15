@@ -86,7 +86,7 @@ Python_Assignment/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/preeti-tamang/Python_Assignment.git
+   git clone https://github.com/epiyushpant/MRC2025Python.git && 
    cd Python_Assignment
    ```
 
@@ -152,7 +152,7 @@ Python_Assignment/
   <h3>🌟 Preeti Tamang</h3>
   <p>
     <strong>Email:</strong> preetitamang@gmail.com<br>
-    <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preeti-tamang.github.io</a>
+    <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preetitamang.github.io</a>
   </p>
   
   <p>
