@@ -172,7 +172,7 @@ Python-Assignment-Repo/
 <div align="center">
   <h3>🌟 Preeti Tamang</h3>
   <p>
-    <strong>Email:</strong> preeti.tamang@example.com<br>
+    <strong>Email:</strong> preetitamang@gmail.com<br>
     <strong>Portfolio:</strong> <a href="https://preeti-tamang.github.io">preetitamang.github.io</a>
   </p>
   
