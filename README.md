@@ -36,45 +36,25 @@ Each notebook is carefully structured with:
 ## 📁 Repository Structure
 
 ```
-Python-Assignment-Repo/
-├── Chapter_01_Basics/
-│   ├── 01_introduction_to_python.ipynb
-│   ├── 02_variables_and_data_types.ipynb
-│   └── exercises/
-├── Chapter_02_Data_Types/
-│   ├── 01_numbers_and_strings.ipynb
-│   ├── 02_lists_and_tuples.ipynb
-│   └── 03_dictionaries_and_sets.ipynb
-├── Chapter_03_Control_Flow/
-│   ├── 01_conditional_statements.ipynb
-│   ├── 02_loops.ipynb
-│   └── 03_break_continue.ipynb
-├── Chapter_04_Functions/
-│   ├── 01_function_basics.ipynb
-│   ├── 02_advanced_functions.ipynb
-│   └── 03_lambda_functions.ipynb
-├── Chapter_05_Modules/
-│   ├── 01_importing_modules.ipynb
-│   ├── 02_creating_modules.ipynb
-│   └── 03_packages.ipynb
-├── Chapter_06_File_Handling/
-│   ├── 01_file_operations.ipynb
-│   ├── 02_csv_handling.ipynb
-│   └── sample_files/
-├── Chapter_07_Database_MySQL/
-│   ├── 01_mysql_connection.ipynb
-│   ├── 02_crud_operations.ipynb
-│   └── database_scripts/
-├── Chapter_08_GUI_Tkinter/
-│   ├── 01_tkinter_basics.ipynb
-│   ├── 02_widgets_and_layouts.ipynb
-│   ├── 03_canvas_drawing.ipynb
-│   └── gui_projects/
-├── assets/
-│   └── images/
-├── requirements.txt
-└── README.md
+Python_Assignment/
+├── .ipynb_checkpoints/          # Jupyter notebook checkpoints (auto-generated)
+├── .gitignore                   # Git ignore file for Python projects
+├── Chapter_1.ipynb              # Python Basics & Introduction
+├── Chapter_2.ipynb              # Data Types & Variables  
+├── Chapter_3.ipynb              # Control Flow & Loops
+├── Chapter_4.ipynb              # Functions & Modules
+├── Chapter_5.ipynb              # File Handling & I/O Operations
+└── README.md                    # This file
 ```
+
+### 📊 File Information
+| File | Size | Description |
+|------|------|-------------|
+| `Chapter_1.ipynb` | 6.3 KB | Introduction to Python, syntax basics, variables |
+| `Chapter_2.ipynb` | 5.9 KB | Data types, strings, numbers, type conversion |
+| `Chapter_3.ipynb` | 15.6 KB | Conditional statements, loops, control structures |
+| `Chapter_4.ipynb` | 10.0 KB | Functions, parameters, scope, modularity |
+| `Chapter_5.ipynb` | 8.7 KB | File operations, reading/writing, data persistence |
 
 ---
 
@@ -84,15 +64,12 @@ Python-Assignment-Repo/
 
 ### ✅ Python Programming Fundamentals
 
-- [x] **Python Basics** - Variables, operators, input/output
-- [x] **Data Types** - Numbers, strings, lists, tuples, dictionaries, sets
-- [x] **Control Flow** - If/else statements, for/while loops, break/continue
-- [x] **Functions** - Definition, parameters, return values, scope, lambda functions
-- [x] **Modules & Packages** - Importing, creating custom modules, package management
-- [x] **File Handling** - Reading/writing files, CSV processing, file operations
-- [x] **Database Connectivity** - MySQL integration, CRUD operations, data manipulation
-- [x] **GUI Development** - Tkinter widgets, layouts, event handling
-- [x] **Canvas Drawing** - Graphics programming, shapes, animations
+- [x] **Chapter 1: Python Basics** - Introduction, syntax, variables, basic operations
+- [x] **Chapter 2: Data Types** - Numbers, strings, lists, dictionaries, type conversion
+- [x] **Chapter 3: Control Flow** - If/else statements, for/while loops, conditional logic
+- [x] **Chapter 4: Functions** - Function definition, parameters, return values, scope
+- [x] **Chapter 5: File Handling** - Reading/writing files, I/O operations, data persistence
+- [ ] **Future Chapters** - Advanced topics (OOP, modules, databases, GUI) coming soon!
 
 </div>
 
@@ -109,13 +86,13 @@ Python-Assignment-Repo/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/preeti-tamang/python-assignments.git](https://github.com/epiyushpant/MRC2025Python.git
-   cd python-assignments
+   git clone https://github.com/preeti-tamang/Python_Assignment.git
+   cd Python_Assignment
    ```
 
-2. **Install required packages:**
+2. **Install Jupyter Notebook (if not already installed):**
    ```bash
-   pip install -r requirements.txt
+   pip install notebook
    ```
 
 3. **Launch Jupyter Notebook:**
@@ -123,7 +100,9 @@ Python-Assignment-Repo/
    jupyter notebook
    ```
 
-4. **Navigate to desired chapter and start learning! 🎉**
+4. **Open any chapter notebook and start learning! 🎉**
+   - Start with `Chapter_1.ipynb` for Python basics
+   - Progress through chapters sequentially for best learning experience
 
 ---
 
@@ -173,7 +152,7 @@ Python-Assignment-Repo/
   <h3>🌟 Preeti Tamang</h3>
   <p>
     <strong>Email:</strong> preetitamang@gmail.com<br>
-    <strong>Portfolio:</strong> <a href="https://preeti-tamang.github.io">preetitamang.github.io</a>
+    <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preeti-tamang.github.io</a>
   </p>
   
   <p>
