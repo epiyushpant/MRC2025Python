@@ -151,7 +151,7 @@ Python_Assignment/
 <div align="center">
   <h3>🌟 Preeti Tamang</h3>
   <p>
-    <strong>Email:</strong> preetitamang@gmail.com<br>
+    <strong>Email:</strong> preetitamang.pkr@gmail.com<br>
     <strong>Portfolio:</strong> <a href="https://preetitamang.github.io">preetitamang.github.io</a>
   </p>
   
