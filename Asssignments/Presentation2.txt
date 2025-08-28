@@ -1,0 +1,14 @@
+Second Presentation 
+
+Class and object :  Sabita Singh 
+__init__ method : Preeti Tamang 
+self keyword : Nisha Sigdel 
+Inheritance Basics :  Man Bahadur Gurdhami 
+Types of Inheritance  with examples : Ghanashyam gautam 
+Polymorphism and Data Hiding : Nima Tshering Tamang 
+Functions basics :  Pradeep Shah
+File Input and Output  and Using loops to process files  : Gopi Chandra Khadka
+Different type of fucntions (function with arguments , value returning functions , function without arguments ) : Shikhar Basnet 
+Excption handling and common exceptions in python : Chetan Giri 
+Exception handling and common exceptions in python  : Kishan Bahadur Gurung 
+

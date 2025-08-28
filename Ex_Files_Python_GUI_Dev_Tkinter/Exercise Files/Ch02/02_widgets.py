@@ -10,10 +10,10 @@ root = Tk()
 button = ttk.Button(root, text = 'Click Me')
 button.pack()
 
-print(button['text'])
+print(button['text']) # Accessing the text property of the button
 button['text'] = 'Press Me'
-button.config(text = 'Push Me')
-print(button.config())
+#button.config(text = 'Push Me')
+#print(button.config())
 
 print(str(button))
 print(str(root))
