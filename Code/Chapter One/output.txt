@@ -1,4 +1,2 @@
-Name: piyush
-Age: 33
 This is the output written to a file.
-New text should be added 
+Appending to file.

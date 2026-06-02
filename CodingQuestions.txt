@@ -1,0 +1,8 @@
+Write a python code to print the factorial of input number. 
+Write a python program to swap 2 number using 3rd variable 
+Write  a python program to swap 2 number without using 3rd variable 
+Write a python program to check prime number or not ?
+Write a python program to display multiplication table of input number.
+Write a python program to reverse a number . 
+Write a python program to check arm strong number or not. 
+

@@ -1,10 +1,14 @@
-class Employee:
-    def salary(self):
-        print("Base salary")
+class Animal:
+    def speak(self):
+        print("Animal speaks")
 
-class Manager(Employee):
-    def salary(self):
-        print("Manager salary with bonus")
+class Dog(Animal):
+    def speak(self):
+        print("Woof Woof")
 
-m = Manager()
-m.salary()  # Output: Manager salary with bonus
+# Usage
+animal = Animal()
+animal.speak()  # Output: Animal speaks
+
+dog = Dog()
+dog.speak()  # Output: Woof Woof
